@@ -20,12 +20,18 @@
     "cookie-parser": "^1.4.5",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "helmet": "^3.22.0",
     "http": "0.0.1-security",
     "path": "^0.12.7",
+    "temp": "^0.9.4",
     "ts-node": "^8.8.1",
     "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/ffmpeg-static": "^3.0.0",
+    "@types/temp": "^0.9.0"
   }
 }

@@ -4,6 +4,7 @@
 node_modules
 
 # misc
+converted.gif
 .awcache
 .DS_Store
 .env
